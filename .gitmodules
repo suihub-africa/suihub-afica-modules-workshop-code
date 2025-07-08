@@ -1,0 +1,6 @@
+[submodule "simple_nft"]
+	path = simple_nft
+	url = https://github.com/suihub-africa/basic_minting_dapp_contract.git
+[submodule "minting-dapp"]
+	path = minting-dapp
+	url = https://github.com/suihub-africa/basic_minting_dapp_front_end.git
