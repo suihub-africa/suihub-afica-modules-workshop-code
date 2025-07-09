@@ -4,3 +4,6 @@
 [submodule "minting-dapp"]
 	path = minting-dapp
 	url = https://github.com/suihub-africa/basic_minting_dapp_front_end.git
+[submodule "module_5_zklogin_impl"]
+	path = module_5_zklogin_impl
+	url = https://github.com/suihub-africa/module_5_zklogin_impl.git
